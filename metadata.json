@@ -1,0 +1,6 @@
+{
+  "name": "Min Finanças",
+  "description": "Gestão financeira pessoal minimalista e inteligente com fluxo de caixa, caixinhas, gráficos e assistente IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
